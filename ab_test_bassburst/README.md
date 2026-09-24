@@ -1,5 +1,5 @@
 ## A/B-тестирование: оптимизация конверсии лендинга
-Практический проект по A/B-тестированию на датасете BassBurst — 30 000 сессий посетителей лендинга интернет-магазина аудиотехники.
+Датасет BassBurst — 30 000 сессий посетителей лендинга интернет-магазина аудиотехники.
 
 **Цель:**
 
@@ -25,4 +25,4 @@ Python (pandas, numpy, scipy, statsmodels, seaborn, matplotlib, sklearn).
 **Рекомендация:**
 Внедрить дизайн Cold как основной.
 
-**Датасет:** [BassBurst на Kaggle](https://www.kaggle.com/datasets/sandeep1080/bassburst/data)
+**Источник данных:** [BassBurst на Kaggle](https://www.kaggle.com/datasets/sandeep1080/bassburst/data)
